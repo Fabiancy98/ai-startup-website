@@ -37,6 +37,13 @@ The following screenshots show the website's progression:
 
 ![Website with Contact Information](img/image2.png)
 
+### Pull Request Workflow
+The following screenshots demonstrate the GitHub pull request workflow:
+
+![Pull Request Creation](img/image3.png)
+
+![Pull Request Merged](img/image4.png)
+
 ## Contributors
 - Admin: Initial setup
 - Tom: Navigation feature
