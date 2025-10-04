@@ -1,5 +1,8 @@
 # AI Startup Website
 
+## Repository
+[GitHub Repository: https://github.com/Fabiancy98/ai-startup-website](https://github.com/Fabiancy98/ai-startup-website)
+
 ## Project Description
 This is my first project as a DevOps engineer, focusing on implementing Git workflows and collaboration practices. The project demonstrates a simple website development process with multiple contributors working on different features through branch-based development.
 
@@ -43,6 +46,11 @@ The following screenshots demonstrate the GitHub pull request workflow:
 ![Pull Request Creation](img/image3.png)
 
 ![Pull Request Merged](img/image4.png)
+
+### Branch Synchronization
+Keeping feature branches up-to-date with the main branch:
+
+![Pull Request Updating Jerry's Branch from Main](img/image5.png)
 
 ## Contributors
 - Admin: Initial setup
